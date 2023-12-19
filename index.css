@@ -1,0 +1,14 @@
+img{
+    width: 120px;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+}
+.w-full{
+    width: 100vw;
+}
+
+table {
+    width:100%;
+}
