@@ -1,9 +1,9 @@
-# MENTORSHIP ON QA AUTOMATION @JANKARI_TECH
-
 <link rel="stylesheet" href="index.css"/>
 <div class="flex w-full img-container">
     <img src="https://www.jankaritech.com/images/Logo-colour.png"/>
 </div>
+
+# MENTORSHIP ON QA AUTOMATION @JANKARI_TECH
 
 | Day | Title                                                             | Link                                                                                                              |
 | --- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
