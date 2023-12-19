@@ -5,7 +5,6 @@
     <img src="https://www.jankaritech.com/images/Logo-colour.png"/>
 </div>
 
-<!-- <div class="w-full"> -->
 | Day | Title                                                             | Link                                                                                                              |
 | --- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | 1   | File system and Introduction to Linux                             | [day1](day1.md)                                                                                                   |
